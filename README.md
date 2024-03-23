@@ -1,5 +1,6 @@
 # APP-GRAPHICS-jpegdump
 Dump JPEG marker information
+Mostly for historical purposes or for customization, but I recommend ExifTool https://exiftool.org/ExifTool.html
 
 
 LICENSE
