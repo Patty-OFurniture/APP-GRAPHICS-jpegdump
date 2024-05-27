@@ -5,7 +5,7 @@ Mostly for historical purposes or for customization if you like C, but I recomme
 
 LICENSE
 ===============
-* BSD Alike
+* GPL
 
 HISTORY
 ===============
